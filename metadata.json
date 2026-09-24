@@ -1,0 +1,7 @@
+{
+  "name": "Disk Scheduling Simulator - Project Documentation & System",
+  "description": "Comprehensive B.Tech CSE project documentation (20-25 pages) and interactive visualization system for Disk Scheduling Algorithms including FCFS, SSTF, SCAN, C-SCAN, LOOK, and C-LOOK.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
